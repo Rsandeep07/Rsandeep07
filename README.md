@@ -1,74 +1,14 @@
-# Hi, I'm Sandeep 👋
+# 💫 About Me:
+🔭 I’m currently working on Data Science & Machine Learning projects (like predictive models, data analysis, and real-world datasets)<br>🤝 I’m looking to collaborate on open-source ML projects, data analytics case studies, and real-world problem-solving projects<br>🆘 I’m looking for help with advanced ML concepts, model optimization, and deploying projects<br>🌱 I’m currently learning Deep Learning, SQL optimization, and end-to-end ML pipelines<br>💬 Ask me about Python, SQL, Data Analysis, Machine Learning basics, and project building<br>⚡ Fun fact: I enjoy turning raw data into meaningful insights and solving real-world problems with code!
 
- Aspiring AI-Native Engineer | Data Analyst | Machine Learning Enthusiast  
- India  
- Passionate about building AI-driven solutions using Python & SQL  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeep-ramadugula-23b250296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeep.ramadugula@gmail.com) 
 
-##  About Me
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rsandeep07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rsandeep07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rsandeep07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am a motivated Computer Science graduate passionate about Artificial Intelligence, Data Science, and Machine Learning.  
-
-I enjoy solving real-world problems using a structured approach:
-Problem → Data → Model → Evaluation → Optimization
-
-Currently focusing on:
-- Machine Learning model building
-- Data analysis & visualization
-- MLOps fundamentals
-- Writing clean and structured Python code
-
----
-
-##  Technical Skills
-
-###  Programming
-- Python
-- SQL
-- Basic Data Structures & Algorithms
-
-###  Data & ML
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-###  Tools
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
-
----
-
-##  Featured Projects
-
-###  Machine Learning Projects
-- Built classification and regression models
-- Performed data preprocessing, feature engineering & model evaluation
-- Achieved measurable accuracy improvements
-
-###  Data Analysis Projects
-- Cleaned and analyzed real-world datasets
-- Generated insights using visualizations
-- Used SQL queries for data extraction & aggregation
-
----
-
-##  What I’m Working On
-
-- Strengthening Data Structures & Problem Solving
-- Improving Model Optimization Techniques
-- Exploring AI-native workflows & automation
-
----
-
-##  Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/sandeep-ramadugula-23b250296
-- GitHub: https://github.com/Rsandeep07
-
----
-
-⭐ I believe in continuous learning and building projects that demonstrate practical understanding rather than just theory.
